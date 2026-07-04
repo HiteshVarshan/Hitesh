@@ -10,31 +10,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Hitesh {
-    private String name = "Hitesh Varshan M";
-    private String location = "Vellore, Tamil Nadu, India";
-    private String degree = "B.Tech ECE, VIT Vellore (2022-2026)";
 
-    private String[] stack = {
-        "Java", "Spring Boot", "JDBC", "MySQL",
-        "React.js", "Node.js", "Express.js", "MongoDB"
-    };
-
-    private String[] currentlyLearning = {
-        "Hibernate (Advanced)", "Microservices",
-        "System Design", "Docker"
-    };
-
-    private String funFact = "I once raised 2L+ sponsorship for a college fest!";
-
-    public String motto() {
-        return "Build it, break it, fix it, ship it.";
-    }
-}
-```
-
-<br clear="both"/>
 
 ## 🛠️ Tech Stack
 
